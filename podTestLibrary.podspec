@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'podTestLibrary'
-  s.version          = '0.2.0'
+  s.version          = '0.3.0'
   s.summary          = 'A short description.'
 
 
